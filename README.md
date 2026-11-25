@@ -113,6 +113,7 @@ plugin is Haiven source that calls Unreal Engine APIs.
 | REST | ○ |
 | Game login handoff | ○ |
 | P2P sessions | ○ |
+| Credential lifecycle | ✅ |
 | API surface | ✅ |
 | Product | ~ |
 | Developer experience | ~ |
